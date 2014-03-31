@@ -1,0 +1,14 @@
+line1=John Doe
+line2=123 Fake Street
+line3=Apt 456
+line4=Anytown USA 12345
+
+bankLine1=Bank of Banking
+bankLine2=123 Banking St
+bankLine3=Banksville USA 99999
+bankLine4=
+
+routingNumber = 111111111
+accountNumber = 222222222
+
+fractionalRoutingLine1 = 01-01/1111
